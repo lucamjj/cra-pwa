@@ -1,0 +1,13 @@
+{
+  "main.css": "/cra-pwa/static/css/main.03dd5399.chunk.css",
+  "main.js": "/cra-pwa/static/js/main.1e33eadb.chunk.js",
+  "main.js.map": "/cra-pwa/static/js/main.1e33eadb.chunk.js.map",
+  "static/js/1.7eae6140.chunk.js": "/cra-pwa/static/js/1.7eae6140.chunk.js",
+  "static/js/1.7eae6140.chunk.js.map": "/cra-pwa/static/js/1.7eae6140.chunk.js.map",
+  "runtime~main.js": "/cra-pwa/static/js/runtime~main.67c1cd3a.js",
+  "runtime~main.js.map": "/cra-pwa/static/js/runtime~main.67c1cd3a.js.map",
+  "static/css/main.03dd5399.chunk.css.map": "/cra-pwa/static/css/main.03dd5399.chunk.css.map",
+  "index.html": "/cra-pwa/index.html",
+  "precache-manifest.6dbad29a6767f576baa336aae7173f36.js": "/cra-pwa/precache-manifest.6dbad29a6767f576baa336aae7173f36.js",
+  "service-worker.js": "/cra-pwa/service-worker.js"
+}
